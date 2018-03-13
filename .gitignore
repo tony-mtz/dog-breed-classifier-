@@ -1,0 +1,9 @@
+
+train/
+test/
+.ipynb_checkpoints
+labels.csv
+*.zip
+
+*.#
+*.~lock.labels.csv#
